@@ -113,7 +113,7 @@ $(document).ready(function() {
     var movieId = urlParams.get('id');
     let play = document.getElementById('play');
     $.ajax({
-        url: `http://localhost:8085/api/v1/movies/${movieId}`,
+        url: `https://akatsukimovie.uk/api/v1/movies/${movieId}`,
         method: "GET",
     }).done(function(result) {
         

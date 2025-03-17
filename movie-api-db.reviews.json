@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6656a78df35bf43a61708dfe"
+  },
+  "body": "Nhan xet",
+  "_class": "com.project.movies.entity.ReviewEntity"
+},
+{
+  "_id": {
+    "$oid": "66594d80a03e4128fc56dc74"
+  },
+  "body": "goddd",
+  "_class": "com.project.movies.entity.ReviewEntity"
+},
+{
+  "_id": {
+    "$oid": "66595538a03e4128fc56dc75"
+  },
+  "body": "cam on",
+  "_class": "com.project.movies.entity.ReviewEntity"
+},
+{
+  "_id": {
+    "$oid": "665fab56ac98ef17d7ecbccd"
+  },
+  "body": "âcsc",
+  "_class": "com.project.movies.entity.ReviewEntity"
+},
+{
+  "_id": {
+    "$oid": "665fab5bac98ef17d7ecbcce"
+  },
+  "body": "do\n",
+  "_class": "com.project.movies.entity.ReviewEntity"
+}]

@@ -1,0 +1,1085 @@
+[{
+  "_id": {
+    "$oid": "6656651fb48177cbdfc7550c"
+  },
+  "imdbId": "tt3915174",
+  "title": "Demon Slayer: Kimetsu no Yaiba",
+  "releaseDate": "2022-12-21",
+  "trailerLink": "https://www.youtube.com/watch?v=VCTyQ8rtUPk",
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTIxNjk3YjItYmYzMC00ZTdmLTk0NGUtZmNlZTA0NWFkZDMwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+  "backdrops": [
+    "https://m.media-amazon.com/images/M/MV5BMTExNWM5ZTItYjc5Mi00OWQ2LWEyZmQtMGM2ZjJjODU3ZWQyXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BOGZmYjkxMDItNmQ3ZC00YzdlLThjMDktYWJkOGZiOWU1NmY0XkEyXkFqcGdeQXVyMTA3MzQ4MTcw._V1_FMjpg_UY2530_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZmNkOWI1M2YtNTBlYy00YWMyLTg0NDQtNzYzZTUxMGUxYWNiXkEyXkFqcGdeQXVyMTI3MjQzNzc2._V1_.jpg%22",
+    "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
+    "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
+    "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
+    "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
+    "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
+    "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
+    "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "6656a78df35bf43a61708dfe"
+    },
+    {
+      "$oid": "66594d80a03e4128fc56dc74"
+    },
+    {
+      "$oid": "66595538a03e4128fc56dc75"
+    }
+  ],
+  "description": "A youth begins a quest to fight demons and save his sister after finding his family slaughtered and his sister turned into a demon.",
+  "imdbPoint": "7.5"
+},
+{
+  "_id": {
+    "$oid": "66e3891a1254c3f7e281ae82"
+  },
+  "imdbId": "tt1234353431",
+  "title": "The Last: Naruto the Movie",
+  "releaseDate": "2014-12-06",
+  "trailerLink": "https://www.youtube.com/watch?v=tA3yE4_t6SY",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1491/134498.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/8/82294l.jpg?_gl=1*1lxs70i*_gcl_au*ODMwMDYwOTMwLjE3MjYxODgwMTc.*_ga*MTk3MTU4MTczNi4xNzE3NzEwOTcw*_ga_26FEP9527K*MTcyNjE4ODAxNi4zLjEuMTcyNjE4ODA2NS4xMS4wLjA."
+  ],
+  "reviewIds": [],
+  "description": "Two years after the Ninja War, Naruto and his team must save the world from a moon-threatening danger. Amidst the chaos, Naruto faces his greatest challenge yet—confronting his feelings for Hinata.",
+  "imdbPoint": "6.0"
+},
+{
+  "_id": {
+    "$oid": "66e3891a1254c3f7e281ae83"
+  },
+  "imdbId": "tt12343577",
+  "title": "Boruto: Naruto the Movie",
+  "releaseDate": "2015-08-07",
+  "trailerLink": "https://www.youtube.com/watch?v=ld-oqpvOBAk",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/4/78280.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/4/78280.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Boruto, Naruto's son, struggles to forge his own path while living in his father's shadow. During the Chunin exams, a new threat emerges, forcing Boruto to understand the true meaning of being a ninja.",
+  "imdbPoint": "5.5"
+},
+{
+  "_id": {
+    "$oid": "66e3891a1254c3f7e281ae84"
+  },
+  "imdbId": "1654ss",
+  "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+  "releaseDate": "2012-07-28",
+  "trailerLink": "https://www.youtube.com/watch?v=TDpYU8OmD-k",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1620/94336.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1620/94336.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Naruto and Sakura are transported to an alternate world where their lives are drastically different. As they navigate this new reality, they must confront their deepest desires and greatest fears.",
+  "imdbPoint": "6.6"
+},
+{
+  "_id": {
+    "$oid": "66e392021254c3f7e281ae88"
+  },
+  "imdbId": "bdtt12343556",
+  "title": "Dragon Ball Kai",
+  "releaseDate": "2014-01-01",
+  "trailerLink": "https://www.youtube.com/watch?v=Ix7QURhM7jE",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi",
+    "Suspense"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/10/59275.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/10/59275.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Remastered version of the Majin Buu saga that adheres more to the manga's story.",
+  "imdbPoint": "7.9"
+},
+{
+  "_id": {
+    "$oid": "66e3927c1254c3f7e281ae8a"
+  },
+  "imdbId": "tt12df343511",
+  "title": "Koukaku Kidoutai (TV)",
+  "releaseDate": "2026-01-01",
+  "trailerLink": "https://www.youtube.com/watch?v=Ix7QURhM7jE",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi",
+    "Suspense"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1113/143277.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1113/143277.jpg"
+  ],
+  "reviewIds": [],
+  "description": "In 2029 Niihama City, cybernetic enhancements are common. Public Security Section 9 investigates the Puppet Master, a mysterious hacker leaving victims without memories. Major Motoko Kusanagi leads the case, confronting philosophical questions about life's meaning.",
+  "imdbPoint": "5.0"
+},
+{
+  "_id": {
+    "$oid": "66e39a7a1254c3f7e281ae8c"
+  },
+  "imdbId": "tt12343gd534",
+  "title": "Sousou no Frieren",
+  "releaseDate": "2023-09-29",
+  "trailerLink": "https://www.youtube.com/watch?v=ZEkwCGJ3o7M",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "After defeating the Demon King, the hero's party disbands. Frieren, an elven mage, realizes the impact of her journey and vows to better understand humans and create real connections.",
+  "imdbPoint": "9.2"
+},
+{
+  "_id": {
+    "$oid": "66e39a7a1254c3f7e281ae8d"
+  },
+  "imdbId": "tt13556dh42",
+  "title": "Fullmetal Alchemist: Brotherhood",
+  "releaseDate": "2009-04-05",
+  "trailerLink": "https://www.youtube.com/watch?v=--IcmZkvL0Q",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Brothers Edward and Alphonse Elric search for the Philosopher's Stone to restore their bodies after a failed alchemical experiment, uncovering a conspiracy that threatens the world.",
+  "imdbPoint": "9.1"
+},
+{
+  "_id": {
+    "$oid": "66e39a7a1254c3f7e281ae8e"
+  },
+  "imdbId": "tt19102fghd72",
+  "title": "Steins;Gate",
+  "releaseDate": "2011-04-06",
+  "trailerLink": "https://www.youtube.com/watch?v=27OZc-ku6is",
+  "genres": [
+    "Sci-Fi",
+    "Thriller",
+    "Drama"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Eccentric scientist Rintarou Okabe discovers time travel through a modified microwave. He and his friends must navigate the consequences of altering the past while facing a mysterious organization.",
+  "imdbPoint": "9.0"
+},
+{
+  "_id": {
+    "$oid": "66e39afd1254c3f7e281ae90"
+  },
+  "imdbId": "tt82282f88",
+  "title": "Shingeki no Kyojin Season 3 Part 2",
+  "releaseDate": "2019-04-29",
+  "trailerLink": "https://www.youtube.com/watch?v=hKHepjfj5Tw",
+  "genres": [
+    "Action",
+    "Drama",
+    "Suspense",
+    "Gore",
+    "Military",
+    "Survival"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1517/100633l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "The Survey Corps embark on a mission to retake Wall Maria, facing off against Titans in Shiganshina District. As they uncover shocking secrets, Eren vows to reclaim what was lost.",
+  "imdbPoint": "9.1"
+},
+{
+  "_id": {
+    "$oid": "66e39afd1254c3f7e281ae91"
+  },
+  "imdbId": "tt1329358eg8",
+  "title": "Gintama: The Final",
+  "releaseDate": "2021-01-08",
+  "trailerLink": "https://www.youtube.com/watch?v=Zn1filVUyf8",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Sci-Fi",
+    "Gag Humor",
+    "Historical",
+    "Parody",
+    "Samurai"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1245/116760.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1245/116760l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Two years after the Tendoshuu's invasion, Gintoki returns to Edo. The Yorozuya and allies fight to save the world as Utsuro's return looms.",
+  "imdbPoint": "8.9"
+},
+{
+  "_id": {
+    "$oid": "66e39afd1254c3f7e281ae92"
+  },
+  "imdbId": "tt1962975",
+  "title": "Gintama'",
+  "releaseDate": "2011-04-04",
+  "trailerLink": "",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi",
+    "Gag Humor",
+    "Historical",
+    "Parody",
+    "Samurai"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/4/50361.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/4/50361l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Shinpachi returns to Edo to find everyone drastically changed. He joins the Shinsengumi to restore the city to normal in this comedic and parody-filled adventure.",
+  "imdbPoint": "8.7"
+},
+{
+  "_id": {
+    "$oid": "66e39b9d1254c3f7e281ae94"
+  },
+  "imdbId": "tt2098220",
+  "title": "Hunter x Hunter (2011)",
+  "releaseDate": "2011-10-02",
+  "trailerLink": "https://www.youtube.com/watch?v=D9iTQRB4XRk",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg",
+    "https://img.youtube.com/vi/D9iTQRB4XRk/maxresdefault.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Gon Freecss takes the Hunter Examination to find his father. He befriends Leorio, Kurapika, and Killua as they face perilous tasks and explore a dangerous world.",
+  "imdbPoint": "9.1"
+},
+{
+  "_id": {
+    "$oid": "66e39b9d1254c3f7e281ae95"
+  },
+  "imdbId": "tt27927870",
+  "title": "Monogatari Series: Off & Monster Season",
+  "releaseDate": "2024-07-06",
+  "trailerLink": "https://www.youtube.com/watch?v=wMQY20isBQs",
+  "genres": [
+    "Comedy",
+    "Mystery",
+    "Supernatural"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1741/140952.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg",
+    "https://img.youtube.com/vi/wMQY20isBQs/maxresdefault.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Yotsugi Ononoki takes over Araragi's role as occult expert, helping others with supernatural issues. Nadeko Sengoku grapples with her fractured identity after creating clones of herself.",
+  "imdbPoint": "8.7"
+},
+{
+  "_id": {
+    "$oid": "66e39b9d1254c3f7e281ae96"
+  },
+  "imdbId": "tt2861424",
+  "title": "Legend of the Galactic Heroes",
+  "releaseDate": "1988-01-08",
+  "trailerLink": "https://www.youtube.com/watch?v=Ou37P25tjJY",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
+    "https://img.youtube.com/vi/Ou37P25tjJY/maxresdefault.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Two strategic masterminds, Reinhard von Lohengramm and Yang Wenli, lead opposing factions in an interstellar war while questioning the reasons behind their battle.",
+  "imdbPoint": "9.3"
+},
+{
+  "_id": {
+    "$oid": "66e39d7e1254c3f7e281ae98"
+  },
+  "imdbId": "tt13718450",
+  "title": "Bleach: Thousand-Year Blood War",
+  "releaseDate": "2022-10-11",
+  "trailerLink": "https://www.youtube.com/watch?v=e8YBesRKq_U",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1908/135431.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
+    "https://img.youtube.com/vi/e8YBesRKq_U/maxresdefault.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Ichigo Kurosaki and his allies face a new threat as Yhwach, an ancient Quincy king, seeks to reignite a blood feud and destroy both the human world and Soul Society.",
+  "imdbPoint": "8.8"
+},
+{
+  "_id": {
+    "$oid": "66e39d7e1254c3f7e281ae99"
+  },
+  "imdbId": "tt14518734",
+  "title": "Kaguya-sama: Love is War -Ultra Romantic-",
+  "releaseDate": "2022-04-09",
+  "trailerLink": "https://www.youtube.com/watch?v=vFN5K-iAyV0",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1160/122627.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+    "https://img.youtube.com/vi/vFN5K-iAyV0/maxresdefault.jpg"
+  ],
+  "reviewIds": [],
+  "description": "The student council members of Shuchiin Academy continue their comedic battles of love and wit, with new relationships blooming and characters growing.",
+  "imdbPoint": "8.9"
+},
+{
+  "_id": {
+    "$oid": "66e49c521254c3f7e281ae9b"
+  },
+  "imdbId": "tt1910272",
+  "title": "Koe no Katachi",
+  "releaseDate": "2016-09-17",
+  "trailerLink": "https://www.youtube.com/watch?v=XBNWo25izJ8",
+  "genres": [
+    "Drama"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "A story of redemption as Shouya Ishida seeks to make amends with Shouko Nishimiya, a deaf girl he bullied in elementary school, while confronting his past actions and their consequences.",
+  "imdbPoint": "8.7"
+},
+{
+  "_id": {
+    "$oid": "66e49c9f1254c3f7e281ae9d"
+  },
+  "imdbId": "tt7339826",
+  "title": "3-gatsu no Lion 2nd Season",
+  "releaseDate": "2017-10-14",
+  "trailerLink": "https://www.youtube.com/watch?v=OfSaJb5OOPA",
+  "genres": [
+    "Drama",
+    "Childcare",
+    "Strategy Game"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/3/88469.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/3/88469l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Rei Kiriyama continues his journey in professional shogi while developing relationships with the Kawamoto sisters and others, learning to rely on others and support them in return.",
+  "imdbPoint": "8.6"
+},
+{
+  "_id": {
+    "$oid": "66e49c9f1254c3f7e281ae9e"
+  },
+  "imdbId": "tt2369146",
+  "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+  "releaseDate": "2013-07-06",
+  "trailerLink": "https://www.youtube.com/watch?v=UhJM5rVqaF8",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/10/51723l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Gintoki travels to a post-apocalyptic future Edo, where he must reunite with his friends and confront a mysterious epidemic to save the world.",
+  "imdbPoint": "8.9"
+},
+{
+  "_id": {
+    "$oid": "66e49cf11254c3f7e281aea0"
+  },
+  "imdbId": "tt54492",
+  "title": "The Apothecary Diaries",
+  "releaseDate": "2023-10-22",
+  "trailerLink": "https://www.youtube.com/watch?v=hkflaNu6yAQ",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Historical",
+    "Medical"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1708/138033.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Maomao, an apothecary's daughter sold to the imperial court, uses her medicinal knowledge to solve mysteries and cure ailments, catching the attention of the perceptive eunuch Jinshi.",
+  "imdbPoint": "8.4"
+},
+{
+  "_id": {
+    "$oid": "66e49cf11254c3f7e281aea1"
+  },
+  "imdbId": "tt51535",
+  "title": "Attack on Titan: Final Season - The Final Chapters",
+  "releaseDate": "2023-03-04",
+  "trailerLink": "https://www.youtube.com/watch?v=E7WytLM2KvY",
+  "genres": [
+    "Action",
+    "Dark Fantasy",
+    "Post-apocalyptic"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1279/131078.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1279/131078l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Former enemies unite to stop Eren Yeager's genocidal rampage, facing an army of monsters in a final, desperate attempt to save humanity.",
+  "imdbPoint": "9.2"
+},
+{
+  "_id": {
+    "$oid": "66e49daf1254c3f7e281aea3"
+  },
+  "imdbId": "tt37491",
+  "title": "Gintama.: Silver Soul Arc - Second Half War",
+  "releaseDate": "2018-07-09",
+  "trailerLink": "https://www.youtube.com/watch?v=E2rzD37MCSg",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi",
+    "Gag Humor",
+    "Historical",
+    "Parody",
+    "Samurai"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1776/96566.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "The Yorozuya and allies fight to save Edo and the world from the Altana Liberation Army's planet-destroying laser while rescuing inventor Gengai Hiraga.",
+  "imdbPoint": "8.7"
+},
+{
+  "_id": {
+    "$oid": "66e49daf1254c3f7e281aea4"
+  },
+  "imdbId": "tt19",
+  "title": "Monster",
+  "releaseDate": "2004-04-07",
+  "trailerLink": null,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Suspense",
+    "Adult Cast",
+    "Psychological"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/10/18793l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Dr. Kenzou Tenma's life changes when he chooses to save a boy over a mayor, leading to unexpected consequences and a quest to confront the monster he once saved.",
+  "imdbPoint": "9.1"
+},
+{
+  "_id": {
+    "$oid": "66e49f3d1254c3f7e281aea6"
+  },
+  "imdbId": "tt9335498",
+  "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+  "releaseDate": "2021-03-08",
+  "trailerLink": "https://www.youtube.com/watch?v=d8mf0qDD3Qg",
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi",
+    "Suspense",
+    "Mecha",
+    "Psychological"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1422/113533.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1422/113533l.jpg",
+    "https://img.youtube.com/vi/d8mf0qDD3Qg/maxresdefault.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Following NERV's failed attempt to retrieve the Spears of Longinus, Shinji, Asuka, and Rei travel to a survivor settlement. As new secrets are uncovered and a battle approaches, the future of Earth hangs in the balance.",
+  "imdbPoint": "8.4"
+},
+{
+  "_id": {
+    "$oid": "66e49f3d1254c3f7e281aea7"
+  },
+  "imdbId": "tt9335499",
+  "title": "KanColle Season 2: Let's Meet at Sea",
+  "releaseDate": "2022-11-04",
+  "trailerLink": "https://www.youtube.com/watch?v=22slVOd2Ki0",
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Anthropomorphic",
+    "Military",
+    "School"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1907/135109.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1907/135109l.jpg",
+    "https://img.youtube.com/vi/22slVOd2Ki0/maxresdefault.jpg"
+  ],
+  "reviewIds": [],
+  "description": "As a decisive battle against the Abyssal Fleet nears in Leyte Gulf, Kanmusu reorganize. Shigure is assigned to a diversionary fleet for a potentially suicidal mission, determined to protect her comrades.",
+  "imdbPoint": "6.8"
+},
+{
+  "_id": {
+    "$oid": "66e49f3d1254c3f7e281aea8"
+  },
+  "imdbId": "tt9335500",
+  "title": "Gekidol",
+  "releaseDate": "2021-01-05",
+  "trailerLink": "https://www.youtube.com/watch?v=U7RRsZfilkE",
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1195/111544.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1195/111544l.jpg",
+    "https://img.youtube.com/vi/U7RRsZfilkE/maxresdefault.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Five years after a mysterious urban disappearance in Ikebukuro, high school student Seria Morino is inspired to become an idol and joins Alice in Theater, aiming to pursue her dreams amidst unexplained phenomena.",
+  "imdbPoint": "7.2"
+},
+{
+  "_id": {
+    "$oid": "66e4a0ce1254c3f7e281aeaa"
+  },
+  "imdbId": "tt9335501",
+  "title": "Fate/stay night: Heaven's Feel - III. Spring Song",
+  "releaseDate": "2020-08-15",
+  "trailerLink": "https://www.youtube.com/watch?v=zfjbLLxdZOU",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1142/112957.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg",
+    "https://img.youtube.com/vi/zfjbLLxdZOU/maxresdefault.jpg"
+  ],
+  "reviewIds": [],
+  "description": "The Fifth Holy Grail War reaches a turning point as the true nature of the enemy is revealed. Shirou, Rin, and Illyasviel must face dire challenges to protect their loved ones in this chaotic final act.",
+  "imdbPoint": "8.7"
+},
+{
+  "_id": {
+    "$oid": "66e4a0ce1254c3f7e281aeab"
+  },
+  "imdbId": "tt9335502",
+  "title": "Megaton-kyuu Musashi",
+  "releaseDate": "2021-10-01",
+  "trailerLink": "https://www.youtube.com/watch?v=wg3ONC_JbHw",
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Mecha",
+    "School"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1317/116693.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1317/116693l.jpg",
+    "https://img.youtube.com/vi/wg3ONC_JbHw/maxresdefault.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Earth has been destroyed by mysterious aliens called 'Dracters.' Survivors hide in shelters, unaware of the truth. Some 'chosen ones' become pilots of giant robots to fight against the aliens.",
+  "imdbPoint": "7.1"
+},
+{
+  "_id": {
+    "$oid": "66e4a0ce1254c3f7e281aeac"
+  },
+  "imdbId": "tt9335503",
+  "title": "Alice in Deadly School",
+  "releaseDate": "2021-03-03",
+  "trailerLink": "https://www.youtube.com/watch?v=NJadE80gnjM",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1614/110455.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1614/110455l.jpg",
+    "https://img.youtube.com/vi/NJadE80gnjM/maxresdefault.jpg"
+  ],
+  "reviewIds": [],
+  "description": "A group of young girls are trapped on their school roof during a zombie apocalypse. They must use their knowledge and skills to plan their escape while reflecting on their friendship.",
+  "imdbPoint": "6.2"
+},
+{
+  "_id": {
+    "$oid": "66e8bfe31254c3f7e281aeae"
+  },
+  "imdbId": "tt14986406",
+  "title": "Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka",
+  "releaseDate": "2021-11-26",
+  "trailerLink": "https://www.youtube.com/watch?v=r5hGVXKOMbs",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1527/117887.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1527/117887l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Ten years after the virtual world's collapse, conflicts arise between 'Green Earth' and 'Blue Earth' humans. Eureka, a high-grade combatant, protects a girl named Iris while fighting to save the world.",
+  "imdbPoint": "7.2"
+},
+{
+  "_id": {
+    "$oid": "66e8bfe31254c3f7e281aeaf"
+  },
+  "imdbId": "tt11659118",
+  "title": "Hatena☆Illusion",
+  "releaseDate": "2020-01-09",
+  "trailerLink": "https://www.youtube.com/watch?v=MDyi_KbcPYs",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Supernatural"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1299/106117.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1299/106117l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "The Hoshisato family of magicians seeks to return stolen magical Artifacts. Kana and her childhood friend Makoto embark on a journey to master magic and retrieve these powerful items.",
+  "imdbPoint": "6.8"
+},
+{
+  "_id": {
+    "$oid": "66e8bfe31254c3f7e281aeb0"
+  },
+  "imdbId": "tt13576028",
+  "title": "Entotsu Machi no Poupelle",
+  "releaseDate": "2020-12-25",
+  "trailerLink": "https://www.youtube.com/watch?v=askt1NhP6v4",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1206/117114.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1206/117114l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "On Halloween, a young chimney sweep befriends a man made of garbage. Together, they strive to uncover the truth about their town's history and clear the smoke-filled skies.",
+  "imdbPoint": "7.5"
+},
+{
+  "_id": {
+    "$oid": "66e8bfe31254c3f7e281aeb1"
+  },
+  "imdbId": "tt27986484",
+  "title": "Pluto",
+  "releaseDate": "2023-10-26",
+  "trailerLink": "https://www.youtube.com/watch?v=KuUhYOyJn78",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1021/138568.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1021/138568l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Android detective Gesicht investigates murders of retired war robots, uncovering a pattern that threatens society. He teams up with Atom to hunt down the killer before more veterans are eliminated.",
+  "imdbPoint": "8.9"
+},
+{
+  "_id": {
+    "$oid": "66e8c0401254c3f7e281aeb3"
+  },
+  "imdbId": "tt35759",
+  "title": "Knights of Sidonia: Love Woven in the Stars",
+  "releaseDate": "2021-06-04",
+  "trailerLink": "https://www.youtube.com/watch?v=3QFnTIUX1bg",
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Mecha",
+    "Space"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1222/108354.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1222/108354l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "10 years after a victory against the Gauna, the Sidonia faces a final battle for humanity's survival. As Captain Kobayashi prepares for the end, will the crew protect those they love?",
+  "imdbPoint": "7.8"
+},
+{
+  "_id": {
+    "$oid": "66e8c0401254c3f7e281aeb4"
+  },
+  "imdbId": "tt35960",
+  "title": "Kud Wafter",
+  "releaseDate": "2020-11-28",
+  "trailerLink": "https://www.youtube.com/watch?v=FI6r5ecS2wY",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "School"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1575/113371.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1575/113371l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "After an accident damages the boys' dormitory, Riki ends up staying in Kud's room. As they share unforgettable experiences, they realize their feelings might be more than just friendship.",
+  "imdbPoint": "6.5"
+},
+{
+  "_id": {
+    "$oid": "66e8c0401254c3f7e281aeb5"
+  },
+  "imdbId": "tt36458",
+  "title": "LBX Girls",
+  "releaseDate": "2021-01-07",
+  "trailerLink": "https://www.youtube.com/watch?v=IutbV9SITpA",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Military"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1532/110186.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1532/110186l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Riko is transported to an alternate Japan where she joins a combat unit equipped with LBX exosuits to fight against metallic invaders called Mimesis.",
+  "imdbPoint": "6.2"
+},
+{
+  "_id": {
+    "$oid": "66e8c0401254c3f7e281aeb6"
+  },
+  "imdbId": "tt36699",
+  "title": "The Boy and the Heron",
+  "releaseDate": "2023-07-14",
+  "trailerLink": "https://www.youtube.com/watch?v=f7EDFdA10pg",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1126/139654.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1126/139654l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Mahito, a boy who lost his mother, encounters a talking heron and ventures into a mysterious tower to save his new stepmother, navigating a world where life and death intertwine.",
+  "imdbPoint": "8.3"
+},
+{
+  "_id": {
+    "$oid": "66e8c0be1254c3f7e281aeb8"
+  },
+  "imdbId": "tt36862",
+  "title": "Made in Abyss: Dawn of the Deep Soul",
+  "releaseDate": "2020-01-17",
+  "trailerLink": "https://www.youtube.com/watch?v=NNwD_Hx1GHY",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Sci-Fi",
+    "Gore"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1502/110723.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1502/110723l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Riko, Reg, and Nanachi face the masked sadist Bondrewd in the Abyss's fifth layer. They befriend Prushka, Bondrewd's daughter, as they attempt to overcome his machinations and reach the sixth layer.",
+  "imdbPoint": "8.7"
+},
+{
+  "_id": {
+    "$oid": "66e8c0be1254c3f7e281aeb9"
+  },
+  "imdbId": "tt37008",
+  "title": "Tsukipro The Animation 2",
+  "releaseDate": "2021-07-07",
+  "trailerLink": "https://www.youtube.com/watch?v=uHJegYLmaIU",
+  "genres": [
+    "Idols (Male)",
+    "Music"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1651/116291.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1651/116291l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "SolidS, Growth, SOARA, and QUELL prepare for Tsukino Talent Productions' Live 2021 Summer Carnival, creating new songs and choreographies for a joint performance.",
+  "imdbPoint": "6.8"
+},
+{
+  "_id": {
+    "$oid": "66e8c0be1254c3f7e281aeba"
+  },
+  "imdbId": "tt37345",
+  "title": "Plunderer",
+  "releaseDate": "2020-01-09",
+  "trailerLink": "https://www.youtube.com/watch?v=_skxpc9VrfQ",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1534/104784.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1534/104784l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "In a world governed by 'Count,' Hina searches for legendary Aces to fulfill her mother's last wish. She meets Licht Bach, a mysterious man with a negative Count and a legendary Ace's mark.",
+  "imdbPoint": "7.2"
+},
+{
+  "_id": {
+    "$oid": "66e8c1121254c3f7e281aebc"
+  },
+  "imdbId": "tt11988420",
+  "title": "Pet",
+  "releaseDate": "2020-01-06",
+  "trailerLink": "https://www.youtube.com/watch?v=bhHBR9VWZOE",
+  "genres": [
+    "Mystery",
+    "Supernatural",
+    "Suspense"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1399/94794.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1399/94794l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Special individuals with the ability to manipulate memories work for a criminal organization, diving into dangerous minds while trying to protect their own.",
+  "imdbPoint": "6.8"
+},
+{
+  "_id": {
+    "$oid": "66e8c1121254c3f7e281aebd"
+  },
+  "imdbId": "tt11690838",
+  "title": "Sorcerous Stabber Orphen",
+  "releaseDate": "2020-01-07",
+  "trailerLink": "https://www.youtube.com/watch?v=WG_Wi6ixBMg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1093/113944.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1093/113944l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Orphen, a powerful sorcerer, seeks to restore his sister Azalie, who was transformed into a dragon. He faces challenges from former allies and a hostile group of sorcerers.",
+  "imdbPoint": "7.2"
+},
+{
+  "_id": {
+    "$oid": "66e8c6d11254c3f7e281aebf"
+  },
+  "imdbId": "tt12453100",
+  "title": "Lapis Re:LiGHTs",
+  "releaseDate": "2020-07-04",
+  "trailerLink": "https://www.youtube.com/watch?v=UlduXMSBCl4",
+  "genres": [
+    "Fantasy",
+    "Music"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1880/107611l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Tiara, a princess, attends a prestigious magic academy with her friends. They must excel in their studies and activities to avoid expulsion, while Tiara aims to become a skilled singer like her sister.",
+  "imdbPoint": "6.9"
+},
+{
+  "_id": {
+    "$oid": "66e8c6d11254c3f7e281aec0"
+  },
+  "imdbId": "tt13173312",
+  "title": "MAGATSU WAHRHEIT",
+  "releaseDate": "2020-10-13",
+  "trailerLink": "https://www.youtube.com/watch?v=3VyUAlzY2JA",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1109/108983.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1109/108983l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "In a technologically advanced empire, a transporter and a soldier become entangled in a criminal plot involving illegal weapons, triggering events that will change their lives and the empire.",
+  "imdbPoint": "7.1"
+},
+{
+  "_id": {
+    "$oid": "66e928c71254c3f7e281aec2"
+  },
+  "imdbId": "tt0213338",
+  "title": "Cowboy Bebop",
+  "releaseDate": "1998-04-03",
+  "trailerLink": "https://www.youtube.com/watch?v=gY5nDXOtv_o",
+  "genres": [
+    "Action",
+    "Award Winning",
+    "Sci-Fi"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/4/19644l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "In 2071, a team of bounty hunters aboard the spaceship Bebop chase criminals across the galaxy, each dealing with their troubled past while working together to survive and catch their targets.",
+  "imdbPoint": "8.9"
+},
+{
+  "_id": {
+    "$oid": "66e928c71254c3f7e281aec3"
+  },
+  "imdbId": "tt0251439",
+  "title": "Trigun",
+  "releaseDate": "1998-04-01",
+  "trailerLink": "https://www.youtube.com/watch?v=bJVyIXeUznY",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1130/120002.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1130/120002l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Vash the Stampede, a pacifist gunslinger with a huge bounty on his head, travels across a desert planet avoiding capture and trying to save lives, accompanied by two insurance agents.",
+  "imdbPoint": "8.3"
+},
+{
+  "_id": {
+    "$oid": "66e928c71254c3f7e281aec4"
+  },
+  "imdbId": "tt0312941",
+  "title": "Witch Hunter Robin",
+  "releaseDate": "2002-07-03",
+  "trailerLink": "https://www.youtube.com/watch?v=7UkaILjPk8M",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery",
+    "Supernatural"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/10/19969.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/10/19969l.jpg"
+  ],
+  "reviewIds": [],
+  "description": "Robin Sena, a powerful craft user, joins STNJ to hunt dangerous beings called Witches. As she develops her powers and works with her partner Amon, she uncovers shocking truths about herself and the Witches.",
+  "imdbPoint": "7.6"
+},
+{
+  "_id": {
+    "$oid": "66e9291b1254c3f7e281aec6"
+  },
+  "imdbId": "tt6TN4a0kZuXg",
+  "title": "Hachimitsu to Clover",
+  "releaseDate": "2005-04-15",
+  "trailerLink": "https://www.youtube.com/watch?v=6TN4a0kZuXg",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "poster": "https://cdn.myanimelist.net/images/anime/1301/133577.jpg",
+  "backdrops": [
+    "https://cdn.myanimelist.net/images/anime/1301/133577l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1301/133577.webp"
+  ],
+  "reviewIds": [],
+  "description": "A heartwarming tale of youth, love, and self-discovery, following the lives of five friends at an arts college as they navigate complex relationships and personal growth.",
+  "imdbPoint": "8.2"
+}]
